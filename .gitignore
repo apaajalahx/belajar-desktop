@@ -1,0 +1,5 @@
+demo.py
+venv
+__pycache__/*
+session/__pycache__/*
+session/tmp/*
